@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculater", "Calculater\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTester", "CalculatorTester\CalculatorTester.csproj", "{07E31CCE-2F1B-496F-81DA-50BB80F9E75A}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DatabaseTet", "DatabaseTet\DatabaseTet.sqlproj", "{A996EF63-CDEC-4351-ADCB-D065E9B61E95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{07E31CCE-2F1B-496F-81DA-50BB80F9E75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07E31CCE-2F1B-496F-81DA-50BB80F9E75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07E31CCE-2F1B-496F-81DA-50BB80F9E75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A996EF63-CDEC-4351-ADCB-D065E9B61E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A996EF63-CDEC-4351-ADCB-D065E9B61E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A996EF63-CDEC-4351-ADCB-D065E9B61E95}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A996EF63-CDEC-4351-ADCB-D065E9B61E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A996EF63-CDEC-4351-ADCB-D065E9B61E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A996EF63-CDEC-4351-ADCB-D065E9B61E95}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
